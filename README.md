@@ -168,4 +168,4 @@ Every Jenkins project should include:
 ## Summary
 
 This guide outlines the setup of Jenkins, integration with Docker, and the use of pipelines for efficient CI/CD workflows. By leveraging Groovy scripts and Docker agents, teams can build scalable and maintainable systems.
-```
+
